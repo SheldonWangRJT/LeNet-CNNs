@@ -1,4 +1,5 @@
 # CarND-LeNet-Lab
+This is a project from Sheldon for:
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ![LeNet-5 Architecture](lenet.png)
